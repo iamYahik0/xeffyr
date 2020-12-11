@@ -8,8 +8,6 @@ I'm GNU/Linux worm😆 and a package maintainer of [**@termux**](https://github.
 * Unstable packages ([termux/unstable-packages](https://github.com/termux/termux-packages))
 * X11 packages ([termux/x11-packages](https://github.com/termux/termux-packages))
 
-and few others.
-
 I don't have any published repositories in my account, but I have some stuff in my private Gitea instance at https://noxhost.ml/devtty.
 
 ***
